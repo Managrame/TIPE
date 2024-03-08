@@ -1,0 +1,48 @@
+<HTML>
+   <HEAD>
+   	<TITLE> TIPE SOTOCA--FERRATA JULIEN </TITLE>
+   	<meta charset="UTF-8">
+   </HEAD>
+   <BODY>
+   <CENTER>
+   <H1> Le Perceptron(work in progress)</H1>
+    </CENTER>
+   <TABLE>
+   	<table border="2" cellpadding="1" cellspacing="0" width="100%"
+         bordercolor="#000000" bgcolor="#0099AF">
+   	<TR>
+   	   <TD>
+   		DATE
+   	    </TD>
+   	    <TD>
+   	    	EVENT
+   	    </TD>
+   	    <TD>
+   	    	RAPPORT
+   	    </TD>
+   	    <TD>
+   	    	Source
+   	    </TD>
+   	</TR>
+   	<TR>
+   	    <TD>
+   		23/02/2023
+   	    </TD>
+   	    <TD>
+   	    	Début du projet
+   	    </TD>
+   	    <TD>
+   	    	Le TIPE servira à apprendre le HTML,et le css.
+   	    	
+   	    </TD>
+  	    <TD>wiki du perceptron
+   	    	<?php
+		echo "<p>C'est un script PHP!\n";</p> 		
+		?>
+			
+   	    </TD>
+   	</TR>
+   
+   </TABLE>
+   </BODY>
+</HTML>
