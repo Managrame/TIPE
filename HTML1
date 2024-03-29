@@ -1,4 +1,4 @@
-<HTML>
+HTML>
    <HEAD>
    	<TITLE> TIPE SOTOCA--FERRATA JULIEN </TITLE>
    	<meta charset="UTF-8">
@@ -36,13 +36,26 @@
    	    	
    	    </TD>
   	    <TD>wiki du perceptron
-   	    	<?php
-		echo "<p>C'est un script PHP!\n";</p> 		
-		?>
+   	    	
+   	    </TD>
+   	</TR>
+   <TR>
+   	    <TD>
+   		22/03/2023
+   	    </TD>
+   	    <TD>
+   	    	classifier
+   	    </TD>
+   	    <TD>
+   	    	utiliser le perceptron poor construire des classes
+   	    	,le seuil pourrait servir à vérifier la rentabilité
+   	    	,Rentabilité économique = (résultat d'exploitation – impôts sur les bénéfices) / (capitaux propres + dettes financières)
+   	    </TD>
+  	    <TD>wiki du classifieur linéaire
+   	    	
 			
    	    </TD>
    	</TR>
-   
    </TABLE>
    </BODY>
 </HTML>
